@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdummy_tab=self.webpackChunkdummy_tab||[]).push([[273],{273:function(s,a,t){t.r(a);var e=t(184);a.default=function(){return(0,e.jsx)("div",{children:(0,e.jsx)("img",{src:"https://invozone-backend.s3.amazonaws.com/fastest_programming_languages_list_1d2c08f7e1.webp",alt:"list"})})}}}]);
+//# sourceMappingURL=273.791142fb.chunk.js.map

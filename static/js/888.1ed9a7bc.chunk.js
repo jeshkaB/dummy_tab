@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdummy_tab=self.webpackChunkdummy_tab||[]).push([[888],{888:function(e,t,a){a.r(t);var s=a(184);t.default=function(){return(0,s.jsx)("div",{children:(0,s.jsx)("img",{src:"https://assets-global.website-files.com/5d64efaf6ed3eef3fca10861/640edcb09a5a1bd5d1878738_MEta_SEO_Article_inside.png",alt:"chart"})})}}}]);
+//# sourceMappingURL=888.1ed9a7bc.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdummy_tab=self.webpackChunkdummy_tab||[]).push([[432],{432:function(e,t,a){a.r(t);var n=a(184);t.default=function(){return(0,n.jsx)("div",{children:(0,n.jsx)("img",{src:"https://www.researchgate.net/publication/321391079/figure/tbl1/AS:675522606551041@1538068548450/Overview-of-programming-languages.png",alt:"table"})})}}}]);
+//# sourceMappingURL=432.7861264e.chunk.js.map
